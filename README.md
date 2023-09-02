@@ -1,4 +1,4 @@
-### Hi there 👋
+### We are something different, Minecraft Java Edition on Android, an improved version of PojavLauncher 👋
 
 <!--
 **MinecraftEmu/MinecraftEmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

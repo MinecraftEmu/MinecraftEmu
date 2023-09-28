@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, we are MinecraftEmu
 
 <!--
 **MinecraftEmu/MinecraftEmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
